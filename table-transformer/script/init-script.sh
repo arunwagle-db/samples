@@ -1,0 +1,1 @@
+%sh apt-get -f -y install tesseract-ocr 
